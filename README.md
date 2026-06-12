@@ -1,4 +1,4 @@
-🎬 Movie Genre Mad Lib — Interactive Storytelling with Python
+🎬 Interactive Storytelling with Python
 
 This is a beginner Python project built in Jupyter Notebook that generates a personalized, interactive story based on a movie genre. Users are prompted to fill in key words, and the program weaves their inputs into a dynamic narrative using Python fundamentals.
 
