@@ -3,7 +3,7 @@
 This is a beginner Python project built in Jupyter Notebook that generates a personalized, interactive story based on a movie genre. Users are prompted to fill in key words, and the program weaves their inputs into a dynamic narrative using Python fundamentals.
 
 
-What This Project Does:
+What This Project Does:\n
 This notebook takes a pre-written genre-themed story and makes it interactive. When you run it, it asks you to supply words — a name, a place, an adjective — and then prints a fully customized version of the story with your inputs filled in. Think of it as a choose-your-own-adventure intro, powered by code.
 
 
