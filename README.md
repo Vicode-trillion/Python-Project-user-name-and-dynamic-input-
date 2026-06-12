@@ -18,7 +18,7 @@ Code commenting — every logical block is documented for readability and handof
 Jupyter Notebook structure — separating logic (code cell) from documentation (markdown cell) cleanly
 
 🧭 How to Run It:
-Clone or download this repository
-Open mad_lib.ipynb in Jupyter Notebook or JupyterLab
-Run the code cell and follow the prompts
-Watch your personalized story appear
+1. Clone or download this repository
+2. Open mad_lib.ipynb in Jupyter Notebook or JupyterLab
+3. Run the code cell and follow the prompts
+4. Watch your personalized story appear
